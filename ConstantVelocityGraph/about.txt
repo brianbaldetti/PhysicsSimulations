@@ -1,0 +1,5 @@
+# ABOUT
+Displays the position vs. time graph for an object with a constant velocity and no acceleration.
+
+# HOW TO RUN
+You can run the code through the use of the following link–– https://trinket.io/library/trinkets/c8283fddc7
