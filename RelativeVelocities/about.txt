@@ -1,0 +1,5 @@
+# ABOUT
+Calculates the relative velocities of two objects and how long until the objects have a specific position relative to each other.
+
+# HOW TO RUN
+You can run this program by using the following link–– https://trinket.io/glowscript/189b9635b7
