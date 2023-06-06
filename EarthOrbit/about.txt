@@ -1,0 +1,5 @@
+# ABOUT
+Demonstrates an orbit around the earth and the minimum velocity to acheive the orbit as well as the energy of the object in orbit as it travels around.
+
+# HOW TO RUN
+To run you can use the following link–– https://trinket.io/library/trinkets/d82ec389ab
