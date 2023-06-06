@@ -1,0 +1,5 @@
+# ABOUT
+Displays position vs. time graph for an objet with constant acceleration and also the final speed of the object.
+
+# HOW TO RUN
+The code can be ran by using the following link-- https://trinket.io/glowscript/babf67a521
