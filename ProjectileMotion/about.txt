@@ -1,1 +1,5 @@
+# ABOUT
+Code simulates projectile motion of an object through space with drag present.
 
+# RUNING CODE
+You can run the code by using this link–– https://trinket.io/glowscript/f1bba981ba
