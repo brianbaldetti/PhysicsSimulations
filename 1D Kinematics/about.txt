@@ -1,0 +1,5 @@
+# ABOUT
+Program modes one dimensional kinematics of a ball through space in the abscence of any forces beside gravity.
+
+# HOW TO RUN
+Code can be run by using the following link-- https://trinket.io/glowscript/fb3719f46b
