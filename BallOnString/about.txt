@@ -1,0 +1,5 @@
+# ABOUT 
+Displays the representation of a ball upon a string as it travels around a fixed post. This has to be my favorite simulation because it took me so long to get it right and because it also because it is very beautiful to run.
+
+# HOW TO RUN
+To run this program use the following link–– https://trinket.io/library/trinkets/389150edc8
